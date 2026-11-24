@@ -54,7 +54,7 @@ The frontend is a React single-page app; the backend exposes a stateless REST AP
 - Menu items with add-on ingredients (extras) and per-item pricing.
 - Shopping cart with quantity management and persistent state.
 - Checkout through **Stripe Checkout**: creating an order returns a payment URL and the app redirects to it, landing back on a success page.
-- Customer profile: personal data, order history, delivery addresses, favourites, payment methods, events and notifications.
+- Customer profile: personal data, order history, delivery addresses, favourites, events and notifications.
 - Reviews per restaurant, with average rating.
 - Sign-up, login, password reset by email and password-change confirmation.
 
